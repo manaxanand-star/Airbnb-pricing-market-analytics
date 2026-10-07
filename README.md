@@ -100,19 +100,6 @@ The analysis suggests that:
 - Host portfolio scale should be treated primarily as an **operational**
   indicator rather than a direct pricing strategy.
 
-## Project Report
-
-The complete academic report is available in:
-
-`report/Airbnb_Pricing_Market_Analytics_Report.pdf`
-
-## Academic Context
-
-**Course:** MS 491 – Marketing Analytics  
-**Institution:** Indian Institute of Technology Gandhinagar  
-**Project:** Group 13  
-**Submission:** September 2026
-
 ## Authors
 
 - Aman Bola
